@@ -1,6 +1,6 @@
 # Groceries-Shop-List-Automatic
-<br>
-For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Image-gradient-Frame-App/index.html 
+<br>This project aims to solve the problem of managing a grocery shopping list efficiently. Its capabilities include adding products with their quantities and prices, calculating total prices, and allowing users to download the list for reference.
+For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Groceries-Shop-List-Automatic/index.html 
 For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
 <br><br>
 <img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070010.jpg">
