@@ -1,0 +1,64 @@
+/* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+ body {
+        font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(90deg, #6190e8, #a7bfe8);
+    /*background: #d1ebec;*/
+     /* Maldives -  
+      #007991, #78ffd6
+      #b2fefa, #0ed2f7
+      #eecda3, #ef629f
+      #6190e8, #a7bfe8 
+      */
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    .total {
+        font-weight: bold;
+    }
+    .adddwn{
+      background: linear-gradient(to right, #00c3ff, #0047ab);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s;
+    perspective: 1000px;
+    padding:10px;
+    }
+    /* 3D effect on hover */
+  .adddwn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-image:url("https://scitechdaily.com/images/Massive-Galaxy.gif");
+  }
+
+  /* Real button click effect animation */
+  .adddwn:active {
+    transform: scale(0.9);
+    transition: transform 0.1s;
+     background-image:url("https://scitechdaily.com/images/Massive-Galaxy.gif");
+  }
+  h2{
+    background-image:url("https://i.pinimg.com/originals/31/f5/c0/31f5c06f7f43e2781b18d5dfd94aa0fb.gif"); 
+    color: #fff;
+    text-align: center;
+    padding:5px;
+  }

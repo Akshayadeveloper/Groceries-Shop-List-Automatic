@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grocery Shopping List</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<h2>Grocery Shopping List</h2>
+
+<table id="shoppingList">
+  <tr>
+    <th>Product Name</th>
+    <th>Quantity</th>
+    <th>Price Per Unit</th>
+    <th>Total Price</th>
+  </tr>
+</table>
+
+<button onclick="addProduct()" class="adddwn">Add Product</button>
+<p id="totalAmount">Total Amount: $0.00</p>
+
+<button onclick="downloadList()" class="adddwn">Download List</button>
+
+<div>
+<footer><p style="color:#000;">&#129392;Powered by <a style="color:blue;"href="https://github.com/Akshayadeveloper"target="_blank">
+   &#128151;Akshaya developer &#128159;</a></p>
+</footer></div>
+<script src="./script.js"></script>
+</body>
+</html>
