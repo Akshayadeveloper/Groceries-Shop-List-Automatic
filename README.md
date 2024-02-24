@@ -1,5 +1,23 @@
 # Groceries-Shop-List-Automatic
 <br>
+For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Image-gradient-Frame-App/index.html 
+For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
+<br><br>
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070010.jpg">
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070020.jpg">
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070029.jpg">
+
+<p><b>Download option</b></p>
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070249.jpg">
+<p><b>Mobile 📲 version</b></p>
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_065946.jpg">
+<p><b>Desktop 🖥️ version</b></p>
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070141.jpg">
+<p><b>Final Report </b></p>
+<img src="https://github.com/Akshayadeveloper/Groceries-Shop-List-Automatic/blob/main/IMG_20240224_070330.jpg">
+
+<br><p></p>
+
 <b>Project Description: Grocery Shopping List Management</b>
 
 **Problem Statement:**  
